@@ -1,4 +1,17 @@
 # Getting Started with Create React App
+## Live Site
+
+Check out my portfolio: [https://zahraaden-portfolio.netlify.app](https://zahraaden-portfolio.netlify.app)
+
+## Features
+
+- Home page with welcome message
+- About page with headshot and bio
+- Projects page with interactive project cards
+- Contact form capturing messages (demo)
+- Responsive and accessible design
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
